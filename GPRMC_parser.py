@@ -1,5 +1,5 @@
 #-*- coding: utf-8 -*-
-
+# Programed by Park Nam In
 import os
 #f_out = open("/Users/naminpark/Desktop/python/python_kmooc/test_out", 'wb')
 #word = raw_input("Search key word:")
